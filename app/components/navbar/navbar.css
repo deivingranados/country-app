@@ -1,0 +1,24 @@
+.responsive-navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 7pt;
+  box-shadow: 0 4px 8px 0 rgba(33, 32, 32, 0.2);
+}
+
+.content-mode {
+  display: grid;
+  grid-template-areas: "moon-icon  title-mode";
+}
+
+.moon-icon {
+  grid-area: moon-icon;
+  margin: 9px;
+}
+
+.title-mode {
+  grid-area: title-mode;
+  margin: 9px;
+  font-size: 12px;
+}
