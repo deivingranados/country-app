@@ -11,7 +11,7 @@ Asegúrate de tener Node.js instalado en tu sistema antes de comenzar.
 1. Clona este repositorio a tu máquina local o descárgalo como un archivo ZIP.
 
 ```bash
-git clone
+git clone : https://github.com/deivingranados/country-app.git
 
 
 Instala las dependencias utilizando npm :
